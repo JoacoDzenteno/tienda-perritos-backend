@@ -1,2 +1,2 @@
 # tienda-perritos-backend
-Repositorio para la tienda de perritos, actividad en asignatura DevOps
+Repositorio para el backend de la tienda de perritos, actividad en asignatura DevOps
